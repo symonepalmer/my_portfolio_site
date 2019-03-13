@@ -1,0 +1,32 @@
+#header {
+	padding-top: 30px;
+	padding-left: 10px;
+	background-color: #7AC4DB;
+	color: white;
+	text-align: center;
+	height: 100px;
+	font-family: Lato, Georgia;
+
+	}
+.content-area {
+	height:1000px;
+}
+p {
+	margin-right: auto;
+    margin-left: auto;
+    padding-left: 45px;
+    padding-right: 45px;
+    font-family: Alternate Gothic, Lato, Georgia;
+	font-size: 14px;
+	text-align: center;
+}
+
+.footer {
+	position: fixed;
+	left: 0;
+  	bottom: 0;
+ 	width: 100%;
+	font-family: Alternate Gothic, Lato, Georgia;
+	font-size: 10px;
+	text-align: center;
+}
